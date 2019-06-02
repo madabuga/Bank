@@ -16,21 +16,4 @@ public enum Currency {
         return this.currency;
     }
 
-    public double convertToRON(){
-
-    }
-
-    public double convertToUSD(){
-
-    }
-
-    public double convertToEUR(){
-
-    }
-
-    public double convertToYEN(){
-
-    }
-
-
 }

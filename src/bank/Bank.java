@@ -1,6 +1,7 @@
 package bank;
 
-public class Bank {
+public enum Bank {
+    ING;
 
     private int counter = 0;
 
